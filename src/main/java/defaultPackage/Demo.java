@@ -6,6 +6,7 @@ public class Demo {
 		System.out.println("My name is Sachin Tendulkar");
 		System.out.println("My name is Arjun Tendulkar");
 		System.out.println("Rohit Shrama");
+		System.out.println(" Shrama");
 	}
 
 }
